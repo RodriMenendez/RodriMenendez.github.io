@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Internal Displacement from Natural Disasters Visualizations](/sample_page)
 <img src="images/log of disp map.png?raw=true"/>
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2
 
-- [Internal Displacement from Natural Disasters Visualizations](https://public.tableau.com/app/profile/angel.avelar/viz/Displacement_16780194441580/bardisp)
+- [Internal Displacement from Natural Disasters Visualizations](https://public.tableau.com/app/profile/angel.avelar/viz/Displacement_16780194441580/bardisp) -->
 <!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
