@@ -20,9 +20,9 @@ if (isAwesome){
 }
 ``` -->
 
-### Inspiration 
-
 <img src="images/log of disp map.png?raw=true"/>
+
+### Inspiration 
 
 Climate change will displace people. We need to help everyone, and understanding the problem is the first step.
 
