@@ -5,9 +5,6 @@ This project aims to minimize the distance people have to travel to get to a hos
 <img src='images/hospital_placement.png'>
 <em>A plot of optimal hospital locations. The blue stars represent the initial position of the hospitals, and the red stars represent the locations after SGD optimization.</em>
 
-### Inspiration
-Getting to the hospital is a matter of life or death. Optimally placing hospitals 
-
 ### Dataset
 The population density map of LA is from Meta's Data for Good team, which can be found [here](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps). The data was obtained using satellite images and census data. 
 
@@ -23,9 +20,9 @@ The population density map of LA is from Meta's Data for Good team, which can be
 ### Results
 <img src='images/final_hospital_placement.png'>
 <em>The image shows the initial and final positions of the hospitals. The red circles are used to calculate coverage, the number of people inside the radius of at least one hospital divided by the total number of people</em>
-<br />
+\
 **coverage** is defined as the number of people inside the radius of at least one hospital divided by the total number of people. With our method, using 7 hospitals results in an coverage of 64%. 
-<br />
+\
 We compare this to the coverage obtained by the top 7 hospitals in the LA county, which only has an coverage of 41%
 <img src='images/top_hospitals_placement.png'>
 *Top hospitals according to [US News](https://health.usnews.com/best-hospitals/area/los-angeles-ca). Although the coverage is lower, it is not easy to conclude which distribution is better for reasons explained in the future work section.*
