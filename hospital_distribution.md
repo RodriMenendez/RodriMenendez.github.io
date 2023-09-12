@@ -23,13 +23,13 @@ The population density map of LA is from Meta's Data for Good team, which can be
 ### Results
 <img src='images/final_hospital_placement.png'>
 <em>The image shows the initial and final positions of the hospitals. The red circles are used to calculate coverage, the number of people inside the radius of at least one hospital divided by the total number of people</em>
-<br></br>
-coverage is defined as the number of people inside the radius of at least one hospital divided by the total number of people. With our method, using 7 hospitals results in an coverage of 64%. 
-<br></br/>
+<br />
+**coverage** is defined as the number of people inside the radius of at least one hospital divided by the total number of people. With our method, using 7 hospitals results in an coverage of 64%. 
+<br />
 We compare this to the coverage obtained by the top 7 hospitals in the LA county, which only has an coverage of 41%
 <img src='images/top_hospitals_placement.png'>
-<em>Top hospitals according to <a href=https://health.usnews.com/best-hospitals/area/los-angeles-ca>US News</a></em>
-<br></br>
+<em>Top hospitals according to <a href=https://health.usnews.com/best-hospitals/area/los-angeles-ca>US News</a>. Although the coverage is lower, it is not easy to conclude which distribution is better for reasons explained in the future work section.</em>
+<br />
 
 
 ### Future Work
