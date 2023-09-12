@@ -28,8 +28,7 @@ The population density map of LA is from Meta's Data for Good team, which can be
 <br />
 We compare this to the coverage obtained by the top 7 hospitals in the LA county, which only has an coverage of 41%
 <img src='images/top_hospitals_placement.png'>
-<em>Top hospitals according to <a href=https://health.usnews.com/best-hospitals/area/los-angeles-ca>US News</a>. Although the coverage is lower, it is not easy to conclude which distribution is better for reasons explained in the future work section.</em>
-<br />
+*Top* hospitals according to [US News](https://health.usnews.com/best-hospitals/area/los-angeles-ca). Although the coverage is lower, it is not easy to conclude which distribution is better for reasons explained in the future work section.
 
 
 ### Future Work
