@@ -23,7 +23,7 @@ The population density map of LA is from Meta's Data for Good team, which can be
 \
 **coverage** is defined as the number of people inside the radius of at least one hospital divided by the total number of people. With our method, using 7 hospitals results in a coverage of 64%.\
 \
-We compare this to the coverage obtained by the top 7 hospitals in the LA county, which only has an coverage of 41%
+We compare this to the coverage obtained by the top 7 hospitals in the LA county, which only has a coverage of 41%
 <img src='images/top_hospitals_placement.png'>
 *Top hospitals according to [US News](https://health.usnews.com/best-hospitals/area/los-angeles-ca). Although the coverage is lower, it is not easy to conclude which distribution is better for reasons explained in the future work section.*
 
