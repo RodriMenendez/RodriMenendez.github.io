@@ -7,6 +7,9 @@
 [Internal Displacement from Natural Disasters Visualizations](/sample_page)
 <img src="images/log of disp map.png?raw=true"/>
 
+[Tanky Video Game](/tanky)
+<img src='images/tanky_cs3.png'>
+
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
