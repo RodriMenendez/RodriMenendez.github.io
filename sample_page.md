@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+<h1>Internal Displacement from Natural Disasters</h1>
 
 **Project description:** Our Tableau site displays interactive graphs that teaches users about the number of people that were forced to move because of natural disasters throughout the world. Through our visualizations, we hope to inspire people to take action against climate change
 
