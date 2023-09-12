@@ -7,6 +7,9 @@
 [Internal Displacement from Natural Disasters Visualizations](/sample_page)
 <img src="images/log of disp map.png?raw=true"/>
 
+[Hospital Placement](/hospital_distribution.md)
+<img src='images/hospital_placement.png'>
+
 [Tanky Video Game](/tanky)
 <img src='images/tanky_cs3.png'>
 
